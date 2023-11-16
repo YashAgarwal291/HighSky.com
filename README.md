@@ -1,3 +1,3 @@
-# HighSky.com
-HIghSky Website full stack website for ordering food 
+# Krishna.com
+Krishna Website full stack website for ordering food 
 
